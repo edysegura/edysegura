@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Explorando o mundo de conhecimento de tecnologia da informação.
 - 💼 &nbsp; Fullstack Software Engineer becoming a Full Cycle Software Engineer
 
 <br/>
