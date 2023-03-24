@@ -1,4 +1,4 @@
-<h2> Hi there 👋! I'm Edy Segura</h2>
+<h2>Edy Segura</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edysegura" alt="edysegura" /> </p>
 
