@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Fullstack Software Engineer becoming a Full Cycle Software Engineer
+- 💼 &nbsp; I'm a Fullstack Software Engineer enthusiastic to develop solutions that make people's life easier!
 
 <br/>
 
