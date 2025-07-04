@@ -1,6 +1,6 @@
 <h2>Edy Segura <img src="https://komarev.com/ghpvc/?username=edysegura" alt="edysegura" /></h2>
 
-I'm a Fullstack Software Engineer enthusiastic to develop solutions that make people's life easier!
+As a Fullstack Software Engineer, I'm driven by a passion for crafting intuitive and impactful solutions that simplify everyday life.
 
 <br/>
 
